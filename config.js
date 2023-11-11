@@ -4,7 +4,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 global.owner = process.env.OWNER_NUMBER || '917560920774'  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://KHADHERINC:khadher123@cluster0.4wym7vn.mongodb.net/?retryWrites=true&w=majority"
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://khadherinc:khadherinc@cluster0.oymvnyc.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'abdkhadher123@gmail.com'
 global.github = 'https://github.com/khadherinc/ELLIE-V2'
