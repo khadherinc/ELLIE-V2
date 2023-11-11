@@ -367,7 +367,7 @@ cmd({
 *🧩Role:* ${role}
 *🍁Level:* ${userq.level}
 *📥 Total Messages* ${ttms}
-*Powered by ${tlang().title}*
+*Powered by Ellie v2*
 `;
             let buttonMessage = {
                 image: {
