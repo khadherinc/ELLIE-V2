@@ -147,7 +147,7 @@ cmd({
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "Blade-Repo",
+                    title: "ELLIE V2",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
