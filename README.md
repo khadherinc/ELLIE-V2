@@ -8,9 +8,6 @@ FORK REPO
 
 
 #### SCAN QR CODE
-
-Scan and Upload the `creds.json` to ***KHADHERINC-SESSION*** Folder
-    <br>
 <a href='https://replit.com/@cvqwkzc64y/ELLIE-V2-QR' target="_blank"><BR><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 <h4 align="center"> Deploy on Heroku
