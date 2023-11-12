@@ -63,7 +63,7 @@ cmd({
                     }
                 }
                 break
-            case 'events':
+          case 'events':
                 {
                     let checkgroup = await sck.findOne({ id: citel.chat })
                     if (!checkgroup) {
@@ -77,7 +77,6 @@ cmd({
                     }
                 }
                 break
-                 }
-        }
-    }
-)
+                      }
+                    }
+                )
