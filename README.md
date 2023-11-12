@@ -4,7 +4,7 @@
 #### STEPS FOR DEPLOYING
 FORK REPO
 
-[FORK](https://github.com/khadherinc/ELLIE/fork)
+[FORK](https://github.com/khadherinc/ELLIE-V2/fork)
 
 
 #### SCAN QR CODE
