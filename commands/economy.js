@@ -195,7 +195,7 @@ async(Void, citel, text,{ isCreator }) => {
     if (value[0] === "") return citel.reply(`Use ${prefix}transfer 100 @user`);
     let user = citel.mentionedJid ? citel.mentionedJid[0] : citel.msg.contextInfo.participant || false;
     if(!user) return citel.reply('Please give me any user🤦‍♂️.');
-    const ellie = "ellie"
+    const secktor = "ellie"
         const user1 = citel.sender
         const user2 = user
         const word = value[0];
@@ -385,7 +385,7 @@ default:
      var value = texts[0].toLowerCase();
      var gg = parseInt(value)
  ///.mentionedJid[0] ? m.mentionedJid[0] : m.sender
-     const ellie = "ellie"
+     const secktor = "ellie"
      const balance = await eco.balance(user, ellie);
      const g = (balance.wallet) > parseInt(value)
      const k = 50
@@ -467,7 +467,7 @@ return await citel.reply( `*📈 You won 🪙${twice}*`)
             const near = ['*Wow, you were so close to winning pineapples*\n\n_--> 🍎-🍍+🍍_', '*Hmmm, you were so close to winning Apples*\n\n_--> 🍎+🍎-🍍_']
             const jack = ['*🥳 JackPot 🤑*\n\n_--> 🍇×🍇×🍇×🍇_', '*🎉 JaaackPooot!*\n\n_--> 🥥×🥥×🥥×🥥_', '*🎊 You Just hit a jackpot worth 🪙1000*']
             const user = citel.sender
-            const ellie = "ellie"
+            const secktor = "ellie"
             const k = 100
             const balance1  = await eco.balance(user, ellie)
             if (k > balance1.wallet) return citel.reply(`You are going to be spinning on your wallet, you need at least 🪙100`);
