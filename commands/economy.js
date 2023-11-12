@@ -394,16 +394,16 @@ default:
           var hjkl;
      if(opp==='left')
      {
-         hjkl = 'https://github.com/ellieBot/Brandimages/blob/main/Nezuko/leftr.webp?raw=true'
+         hjkl = 'https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/leftr.webp?raw=true'
      } 
     else if(opp==='right') 
     {
-        hjkl = 'https://github.com/ellieBot/Brandimages/blob/main/Nezuko/rightr.webp?raw=true'
+        hjkl = 'https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/rightr.webp?raw=true'
     } else if(opp==='up') 
     {
-        hjkl = 'https://github.com/ellieBot/Brandimages/blob/main/Nezuko/upr.webp?raw=true'
+        hjkl = 'https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/upr.webp?raw=true'
     } else if (opp==='down'){
-        hjkl = 'https://github.com/ellieBot/Brandimages/blob/main/Nezuko/downr.webp?raw=true'
+        hjkl = 'https://github.com/SecktorBot/Brandimages/blob/main/Nezuko/downr.webp?raw=true'
     } else{
         citel.reply(`Please provide direction(left,right,up,down).\nEg:- ${prefix}gamble 200 left`)
     }
