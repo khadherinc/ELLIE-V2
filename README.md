@@ -40,4 +40,4 @@ FORK REPO
 
 
 
-    just realised qr and more deploy platforms update soon!
+    just realised all bugs will fix soon!
