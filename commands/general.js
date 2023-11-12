@@ -218,7 +218,7 @@ cmd({
 async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
-let str="*All available themes in ʙʟᴀᴅᴇ-ᴍᴅ*"
+let str="*All available themes in ellie v2*"
 str+=`  \n1. ELLIE\n\n `
 return citel.reply(str)
     
